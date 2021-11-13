@@ -8,3 +8,5 @@ I was initially trying to replicate this image of astronauts through time:
 
 My result with ggplot and a little bit of illustrator looked like this:
 ![Black Legislators](African_American_Congress_by_party.png)
+
+More discussion and analysis at my [blog](https://matthewmorriss.weebly.com/codeblog/african-american-legislators-throughtime)
