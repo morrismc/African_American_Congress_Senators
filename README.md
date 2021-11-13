@@ -1,4 +1,4 @@
-# African_American_Congress_Senators
+# African American Congress Senators
 Plots of African American Legislators over time, a chance to experiment with web scraping and data visualization.
 
 These data come from a list maintained by the United States House of Reps [Data](https://history.house.gov/Exhibitions-and-Publications/BAIC/Historical-Data/Black-American-Representatives-and-Senators-by-Congress/)
