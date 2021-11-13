@@ -7,4 +7,4 @@ I was initially trying to replicate this image of astronauts through time:
 ![Astronaut figure](Astronaut-travels.png)
 
 My result with ggplot and a little bit of illustrator looked like this:
-![Black Legislators](African American Congress, by party.png)
+![Black Legislators](African_American_Congress_by_party.png)
